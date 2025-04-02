@@ -1,13 +1,35 @@
-# SIHProject
+# Upasthit Hai - Geo-Location Based Attendance Tracking App 📍📲
 
-Upasthit Hai is a geo-location-based attendance tracking app designed for streamlined employee attendance management. The app features two types of users: Admin and Employee, and offers functionalities like attendance tracking, employee statistics, leave management, and a unique reward system for task completion. Originally developed for a problem statement provided by GAIL (Gas Authority of India Limited), "Upasthit Hai" was submitted for the Smart India Hackathon.
+![Upasthit Hai](https://your-sticker-url.com) <!-- Add relevant stickers here -->
 
-Geo-location Attendance Tracking: Employees can check in and out based on their current location, ensuring they are present at the designated work site.
-Employee and Admin Roles:
-Admin: Can view all employee attendance data, manage requests, and post announcements.
-Employee: Can mark attendance, view personal statistics, submit manual check-in/out requests, and apply for leave.
-Leave Management: Simple leave request submission and tracking for employees.
-Manual Check-In/Out Requests: Allows employees to request manual attendance updates for missed check-ins or check-outs.
-Announcements: Admins can post important announcements that all employees can view.
-Reward System: Employees earn rewards for completing assigned tasks, which incentivizes participation and productivity.
-Statistics and Reporting: Real-time employee statistics are available for admin users to monitor attendance trends and productivity.
+## 📌 Overview
+**Upasthit Hai** is a geo-location-based attendance tracking application designed to streamline workforce management. Developed for **SAIL India Pvt. Ltd.** and **GAIL**, the app automates employee attendance tracking, enhances transparency, and reduces administrative overhead.
+
+## ✨ Features
+- 📍 **Geo-Location Based Check-Ins** – Employees mark attendance only within predefined locations.
+- ⏰ **Automated Reporting** – Generates real-time attendance reports.
+- 📊 **Employee Statistics Dashboard** – Tracks working hours, check-ins, and leave records.
+- 📢 **Announcements & Notifications** – Ensures seamless communication.
+- 🏆 **Reward System** – Encourages task completion with incentives.
+- 📅 **Leave & Manual Check-In Requests** – Simplifies workflow approvals.
+
+## 🛠 Technologies Used
+- **Kotlin** – Android application development.
+- **Ktor** – Backend framework for API development.
+- **Firebase** – Authentication, database, and cloud services.
+- **Google Places API** – Geolocation and place identification.
+- **Power BI** – Data visualization and insights.
+
+## 🚀 Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo/upasthit-hai.git
+   ```
+2. Open the project in Android Studio.
+3. Configure Firebase API keys and Google Places API.
+4. Build and run the app on an emulator or physical device.
+
+## 📬 Contact
+For queries or collaboration, reach out.
+
+
